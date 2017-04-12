@@ -1,0 +1,2 @@
+# Mediao_android_Jni
+Unity_meida的JNI代码，NDK开发的opengle渲染视频代码
